@@ -1,0 +1,22 @@
+
+
+.slider{
+    width: 60%;
+    margin: auto;
+    margin-top: 25px;
+    text-align: center;
+}
+#images-slider-id{
+    border-radius: 1em;
+    
+}
+.slider-titel{
+    background-color: aliceblue;
+    width: 40%;
+    margin:auto;
+    text-align: center;  
+    border-radius: 1em;
+}
+h1{
+    padding:10px 0;
+}
